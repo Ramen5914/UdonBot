@@ -1,0 +1,19 @@
+{
+  "name": "ramenbot",
+  "version": "1.0.0",
+  "description": "A bot made my Ramen5914 for his discord server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramen5914",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
